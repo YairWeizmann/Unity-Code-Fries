@@ -29,7 +29,11 @@ The game introduces programming concepts through an interactive and playful expe
 
 ## Screenshots
 
-![Code & Fries Gameplay](docs/images/gameplay.png)
+### Gameplay
+![Code & Fries Gameplay](Code%20%26%20Fries%20ScreenShot.jpeg)
+
+### Visual Programming
+![Code & Fries Screenshot 2](Code%26Fries%20ScreenShot%202.jpeg)
 
 ## Play the Game
 
